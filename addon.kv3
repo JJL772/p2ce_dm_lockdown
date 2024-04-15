@@ -1,0 +1,19 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:generic:version{7412167c-06e9-4698-aff2-e63eb59037e7} -->
+{
+	mod = "p2ce_dm_lockdown"
+	description = "Port of sdk_dm_lockdown (included with the Source SDK) to P2CE.\n\nPretty much a 1:1 port except for lightmap scales being tweaked and the antlion holes being deleted (because they were ugly).\n\nVMF included with the addon"
+	type = ""
+	id = 3214845593
+	thumbnail = "thumbnail.jpg"
+	authors = [  ]
+	dependencies = [  ]
+	tags = 
+	[
+		"Multiplayer",
+		"Game Port",
+	]
+	ignore = [  ]
+	metadata = 
+	{
+	}
+}
